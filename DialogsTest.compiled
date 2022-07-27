@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/home/melissa/fpcdeluxe/lazarus/fpc/bin/x86_64-linux/fpc.sh" Date="1652964733"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -gw3 -gl -l -vewnhibq -Fi/home/melissa/Componentes/jkdialog -Fu/home/melissa/fpcdeluxe/lazarus/lazarus/lcl/units/x86_64-linux/gtk2 -Fu/home/melissa/fpcdeluxe/lazarus/lazarus/lcl/units/x86_64-linux -Fu/home/melissa/fpcdeluxe/lazarus/lazarus/components/freetype/lib/x86_64-linux -Fu/home/melissa/fpcdeluxe/lazarus/lazarus/components/lazutils/lib/x86_64-linux -Fu/home/melissa/fpcdeluxe/lazarus/lazarus/packager/units/x86_64-linux -Fu/home/melissa/Componentes/jkdialog/ -FE/home/melissa/Componentes/jkdialog/ -o/home/melissa/Componentes/jkdialog/DialogsTest -dLCL -dLCLgtk2 DialogsTest.lpr"/>
+</CONFIG>
