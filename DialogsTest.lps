@@ -8,7 +8,7 @@
         <Filename Value="DialogsTest.lpr"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="1"/>
-        <UsageCount Value="21"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
@@ -20,7 +20,7 @@
         <UnitName Value="uDialogs"/>
         <TopLine Value="28"/>
         <CursorPos X="3" Y="40"/>
-        <UsageCount Value="21"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
@@ -31,25 +31,25 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uformDialogs"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="2"/>
-        <TopLine Value="38"/>
-        <CursorPos X="31" Y="47"/>
-        <UsageCount Value="21"/>
+        <TopLine Value="39"/>
+        <CursorPos X="31" Y="48"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit2>
       <Unit3>
         <Filename Value="uJKDialog.pas"/>
         <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="3"/>
-        <TopLine Value="56"/>
-        <CursorPos X="7" Y="43"/>
-        <UsageCount Value="21"/>
+        <TopLine Value="13"/>
+        <CursorPos X="55" Y="71"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit3>
     </Units>
-    <JumpHistory Count="3" HistoryIndex="2">
+    <JumpHistory Count="8" HistoryIndex="7">
       <Position1>
         <Filename Value="uJKDialog.pas"/>
         <Caret Line="33" Column="38" TopLine="22"/>
@@ -62,6 +62,26 @@
         <Filename Value="uformdialogs.pas"/>
         <Caret Line="47" Column="24" TopLine="38"/>
       </Position3>
+      <Position4>
+        <Filename Value="uformdialogs.pas"/>
+        <Caret Line="48" Column="31" TopLine="39"/>
+      </Position4>
+      <Position5>
+        <Filename Value="uJKDialog.pas"/>
+        <Caret Line="43" Column="36" TopLine="35"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uJKDialog.pas"/>
+        <Caret Line="44" Column="27" TopLine="33"/>
+      </Position6>
+      <Position7>
+        <Filename Value="uformdialogs.pas"/>
+        <Caret Line="49" Column="31" TopLine="40"/>
+      </Position7>
+      <Position8>
+        <Filename Value="uformdialogs.pas"/>
+        <Caret Line="48" Column="31" TopLine="39"/>
+      </Position8>
     </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>

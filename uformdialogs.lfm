@@ -1,25 +1,27 @@
 object JKFormDialog: TJKFormDialog
   Left = 434
-  Height = 272
+  Height = 388
   Top = 244
-  Width = 440
+  Width = 443
   Caption = 'JKFormDialog'
-  ClientHeight = 272
-  ClientWidth = 440
+  ClientHeight = 388
+  ClientWidth = 443
   OnShow = FormShow
   object pTexto: TPanel
     Left = 0
-    Height = 174
-    Top = 49
-    Width = 440
+    Height = 282
+    Top = 57
+    Width = 443
     Align = alClient
-    ClientHeight = 174
-    ClientWidth = 440
+    ClientHeight = 282
+    ClientWidth = 443
+    Color = clWhite
+    ParentColor = False
     TabOrder = 0
     object lTexto: TLabel
       Left = 8
       Height = 88
-      Top = 72
+      Top = 176
       Width = 424
       Alignment = taCenter
       AutoSize = False
@@ -32,22 +34,19 @@ object JKFormDialog: TJKFormDialog
       ParentFont = False
       WordWrap = True
     end
-    object imgDialog: TImage
-      Cursor = crHandPoint
-      Left = 184
-      Height = 73
-      Top = 16
-      Width = 70
-      Center = True
-      Stretch = True
-      Transparent = True
+    object ACBrGIF: TACBrGIF
+      Left = 128
+      Height = 152
+      Top = 8
+      Width = 152
+      Anchors = [akTop, akLeft, akRight, akBottom]
     end
   end
   object pTopo: TPanel
     Left = 0
-    Height = 49
+    Height = 57
     Top = 0
-    Width = 440
+    Width = 443
     Align = alTop
     Caption = 'Mensagem do Topo'
     Color = clNone
@@ -63,11 +62,11 @@ object JKFormDialog: TJKFormDialog
   object pBotton: TPanel
     Left = 0
     Height = 49
-    Top = 223
-    Width = 440
+    Top = 339
+    Width = 443
     Align = alBottom
     ClientHeight = 49
-    ClientWidth = 440
+    ClientWidth = 443
     TabOrder = 2
     object pYes: TPanel
       Left = 340

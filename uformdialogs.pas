@@ -5,14 +5,15 @@ unit uformDialogs;
 interface
 
 uses
-  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ExtCtrls, StdCtrls;
+  Classes, SysUtils, Forms, Controls, Graphics, Dialogs, ExtCtrls, StdCtrls,
+  ACBrGIF;
 
 type
 
   { TJKFormDialog }
 
   TJKFormDialog = class(TForm)
-    imgDialog: TImage;
+    ACBrGIF: TACBrGIF;
     lNo: TLabel;
     lTexto: TLabel;
     lYes: TLabel;
